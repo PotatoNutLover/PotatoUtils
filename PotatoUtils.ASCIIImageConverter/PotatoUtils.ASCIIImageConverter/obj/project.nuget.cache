@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "K5Ya3AZ3TANjhK+tmOkOC/kTNrUnO8/Zq5PieDchilR21TDPxxsdeqem93kpXeghNYLi2YEwOKet0xX7Vp47bA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\potatoo-pc\\source\\repos\\PotatoUtils.ASCIIImageConverter\\PotatoUtils.ASCIIImageConverter\\PotatoUtils.ASCIIImageConverter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\potatoo-pc\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\potatoo-pc\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

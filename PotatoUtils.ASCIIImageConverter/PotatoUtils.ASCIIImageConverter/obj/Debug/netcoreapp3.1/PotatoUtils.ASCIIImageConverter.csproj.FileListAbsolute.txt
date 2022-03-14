@@ -1,0 +1,10 @@
+C:\Users\potatoo-pc\source\repos\PotatoUtils.ASCIIImageConverter\PotatoUtils.ASCIIImageConverter\bin\Debug\netcoreapp3.1\PotatoUtils.ASCIIImageConverter.deps.json
+C:\Users\potatoo-pc\source\repos\PotatoUtils.ASCIIImageConverter\PotatoUtils.ASCIIImageConverter\bin\Debug\netcoreapp3.1\PotatoUtils.ASCIIImageConverter.dll
+C:\Users\potatoo-pc\source\repos\PotatoUtils.ASCIIImageConverter\PotatoUtils.ASCIIImageConverter\obj\Debug\netcoreapp3.1\PotatoUtils.ASCIIImageConverter.AssemblyInfoInputs.cache
+C:\Users\potatoo-pc\source\repos\PotatoUtils.ASCIIImageConverter\PotatoUtils.ASCIIImageConverter\obj\Debug\netcoreapp3.1\PotatoUtils.ASCIIImageConverter.AssemblyInfo.cs
+C:\Users\potatoo-pc\source\repos\PotatoUtils.ASCIIImageConverter\PotatoUtils.ASCIIImageConverter\bin\Debug\netcoreapp3.1\PotatoUtils.ASCIIImageConverter.pdb
+C:\Users\potatoo-pc\source\repos\PotatoUtils.ASCIIImageConverter\PotatoUtils.ASCIIImageConverter\obj\Debug\netcoreapp3.1\PotatoUtils.ASCIIImageConverter.dll
+C:\Users\potatoo-pc\source\repos\PotatoUtils.ASCIIImageConverter\PotatoUtils.ASCIIImageConverter\obj\Debug\netcoreapp3.1\PotatoUtils.ASCIIImageConverter.pdb
+C:\Users\potatoo-pc\source\repos\PotatoUtils.ASCIIImageConverter\PotatoUtils.ASCIIImageConverter\obj\Debug\netcoreapp3.1\PotatoUtils.ASCIIImageConverter.csproj.CoreCompileInputs.cache
+C:\Users\potatoo-pc\source\repos\PotatoUtils.ASCIIImageConverter\PotatoUtils.ASCIIImageConverter\obj\Debug\netcoreapp3.1\PotatoUtils.ASCIIImageConverter.csproj.AssemblyReference.cache
+C:\Users\potatoo-pc\source\repos\PotatoUtils.ASCIIImageConverter\PotatoUtils.ASCIIImageConverter\obj\Debug\netcoreapp3.1\PotatoUtils.ASCIIImageConverter.GeneratedMSBuildEditorConfig.editorconfig
